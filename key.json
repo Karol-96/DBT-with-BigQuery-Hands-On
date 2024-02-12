@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dbt-crash-course-413909",
+  "private_key_id": "0bb741b8f08cdc8425034e209e61a20299c31bb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDnz6rb+PULUdo7\nQbHEXAalJ1zT5K9p/GqSBOzgFjpneWzvAgRZ/wmaC0bLDR5/9ibRBDOYMaUelUlk\nrbo/D/aez8jKiioi7DApuyxFWUNGpRfmMk9RxsZCIoSE7uH0al6XvDEUdwhE5/ix\np079+hgUwWX/3fs0jLNIEUa17oVSYbLZ+xGUbsdW31Tgn2kwD9by7iBpEtj0OoSW\nXRe35W25jRH5BQJWqilYXSek2AdjnmdWknqJMFvltErhv738TywtRDLB/RpEdRtl\ndodvX9OLOodt/MVdUrjfWapLcdMKJfZF/GK6LoNNcjyqK5L1+PJ9dVHIBZOdSTXw\n2xx5ziP7AgMBAAECggEABH9XccgdPPh8Eu093TDp4hdm6ieELbq7eJTG4bwcqvhE\noEh6PCLCFW6Fk5fwEQx+CU0bESdZbEP6Ng1W0TVmlAM1ApT2p1HMx2p9u+S09PBs\nC8fLGSuRmiPgTVHzKVJM/oWksCB1FR0pCo1T74KEKBbuey3b21OlgM7w/8Oea5A3\nOijEhD6mC6ie40tBzCs/KmuWXU/c6IX9zRhNU2Vpgx637U3Tnj8wkkXZBjToA1u2\nUayqiUVUI/NmL1oZzWmOU1HeimDHT0XqJY88OaVEH1cyRWzGOizjfiT7NyaKDnjQ\n8MVeHyWVS4UqlOfLlDG0f7s0BFE+WAWzZxA1zBfxMQKBgQD8ht45rSKyFKkpGcHv\nM43XaDDHYvsmElCsSJnbipj04Qr7hCMOVdNzzLm4ii8Syxqibdw8krv3Qg+5ZyBb\nbuGlleAyKAI58odderegMdpGO7o8uaoXJADc0nDn0141S3PlNfDSCMRt/Tlzixqa\nZomF3dtJx6Ypx42w+Zd+JNPVkQKBgQDq/9xhUELdH9mltByTxbw3yDJ38wU7aW72\nyfd/e/k810DyHFgNjuuvT8HGrL50SnOGnjhdLsFsIhMTMKykYxMtoBwNb+/dl3IJ\nUqjMsBWN/mYYckZ4EwravC2lJeE9gOkmYwjeZ/xdxhzHfwc1kUpwqbp/Shw8LbUx\nQdY4SyoqywKBgQCbpGCJee29hsBwRaDjVoog7uXJrncPExDH7wNtbfIyVBYZyWp1\n5m4qnE8Hr5ut4KLs4/tvFh1mG0BnzGkEEcZf8Y06PLCKmLHX6tAMm01mJl/2F5T/\nKECj2cyfBga1oGixKFriiWbQR9fGIEFoUrSGXqROyA/hBk6Nenhl1jr+EQKBgCR+\nAPn3nbp61LB/rKRh412CMBwiV+Cm+b1HFbDtToHdJ0+xiRbp5718lCnG73hdi10P\nOs91kEG7dNzZBSYt4G+IWnLXvBbcCrBZ7q6CdYZsR+xp6nmA84GOEUSBAl4ro4j7\nfggTe8QQHK36EuOFoVqncLeNiZ7qtiVlBOAPBAhLAoGAd0R3aT1Q2PI2mR0F60KZ\nYePVVTsLu+6HZSNxO7mU1xMDS3oZ4vivIi5rRYdvt8hrb+TGB3BZ9HgVkyEeOSad\njyrnNw8cxUNs/AHzqKUarYaSSbB88kmeLRzAGqPFw9IFX8IKLSSpuFwPqrR4SuJS\nz23X9GAlrdp1BionX/conIs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "karol-bhandari@dbt-crash-course-413909.iam.gserviceaccount.com",
+  "client_id": "115201885300656328557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/karol-bhandari%40dbt-crash-course-413909.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
